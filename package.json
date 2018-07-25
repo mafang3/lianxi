@@ -1,0 +1,20 @@
+{
+    "name": "lianxi",
+    "version": "1.0.0",
+    "description": "lianxi",
+    "main": "gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mafang3/lianxi.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mafang3/lianxi/issues"
+    },
+    "homepage": "https://github.com/mafang3/lianxi#readme"
+}
